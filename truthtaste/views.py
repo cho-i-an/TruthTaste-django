@@ -4,7 +4,7 @@ from django.contrib import messages
 from django.http import JsonResponse
 from django.shortcuts import render, redirect, get_object_or_404
 from .models import regular_user, admin_user, StoreBox, Review, User
-from django.db.models import Avg, Value, Coalesce, FloatField
+from django.db.models import Avg, Value, FloatField
 from django.db.models.functions import Coalesce
 from actions.models import Action
 from django.views.decorators.http import require_http_methods
