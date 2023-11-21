@@ -25,7 +25,7 @@ SECRET_KEY = "django-insecure-80@75h%17^u8!-r%1%jieuy18gfpuke25=b3y(5(^(s@zmz%qn
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['cs5774proj6truthtaste-82de14f28fbf.herokuapp.com/', '127.0.0.1']
+ALLOWED_HOSTS = ['cs5774proj6truthtaste-82de14f28fbf.herokuapp.com/', 'cs5774proj6truthtaste-82de14f28fbf.herokuapp.com', '127.0.0.1']
 MEDIA_URL = "media/"
 MEDIA_ROOT = os.path.join(BASE_DIR, 'truthtaste/media/')
 
