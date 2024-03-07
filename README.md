@@ -20,7 +20,7 @@ option and a prompt message to remind them to create an account.
 * Home Page 
 ![Screenshot](screenshots/homepage.png)
 * Restaurant List Page 
-![Screenshot](screenshots/restaurant-list.png)
+![restaurant-list.png](screenshots%2Frestaurant-list.png)
 * Restaurant Detail Page 
 ![Screenshot](screenshots/restaurant-detail-1.png)
 ![Screenshot](screenshots/restaurant-detail-2.png)
